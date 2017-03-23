@@ -262,7 +262,7 @@
 
     </div>
     <script type="text/javascript" src='//upcdn.b0.upaiyun.com/libs/jquery/jquery-1.9.1.min.js'></script>
-    <script type="text/javascript" src='https://rawgit.com/reruin/kimsufi.helper/master/lib/kimsufi.js'></script>
+    <script type="text/javascript" src='https://raw.githubusercontent.com/catonisland/kimsufi.helper/master/lib/kimsufi.js'></script>
     <script type="text/javascript">  
         $(function() {
 
