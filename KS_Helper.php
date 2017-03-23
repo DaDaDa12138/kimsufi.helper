@@ -1,7 +1,7 @@
 <?php
     /****************************************
-     *  VERSION : v.20170312
-     *  DATE    : 2016-10-06
+     *  VERSION : v.20170323
+     *  DATE    : 2017-03-23
      *
      *  Copyright (C) 201x (reruin#gmail.com) 
      *
@@ -218,8 +218,8 @@
 
 <body>
     <audio preload loop id="clock">
-        <source src="http://www.naobiao.com/web_system/naobiao_com_www/img/music/ka_nong_meng_huan/1.ogg" type="audio/ogg">
-        <source src="http://www.naobiao.com/web_system/naobiao_com_www/img/music/ka_nong_meng_huan/1.mp3" type="audio/mpeg">
+        <source src="https://raw.githubusercontent.com/catonisland/kimsufi.helper/master/music/1.ogg" type="audio/ogg">
+        <source src="https://raw.githubusercontent.com/catonisland/kimsufi.helper/master/music/1.mp3" type="audio/mpeg">
     </audio>
     <div id="all">
         <div class="head item">
@@ -261,7 +261,7 @@
         <div class="help"><a href="#">帮助</a></div>
 
     </div>
-    <script type="text/javascript" src='http://libs.baidu.com/jquery/1.9.1/jquery.min.js'></script>
+    <script type="text/javascript" src='//upcdn.b0.upaiyun.com/libs/jquery/jquery-1.9.1.min.js'></script>
     <script type="text/javascript" src='https://rawgit.com/reruin/kimsufi.helper/master/lib/kimsufi.js'></script>
     <script type="text/javascript">  
         $(function() {
